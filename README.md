@@ -98,7 +98,7 @@ sh ./installer.sh
 
 (5) BTS       [Paper](https://arxiv.org/abs/1907.10326)       [Code](https://github.com/MinJunKang/DualPixelFace/tree/main/src/model/bts)       [Pretrained]
 
-(6) StereoDPNet      **(Ours)**       [Code](https://github.com/MinJunKang/DualPixelFace/tree/main/src/model/stereodpnet)       [Pretrained](https://drive.google.com/file/d/1nf3R1y4Op8jeexQ9h8wgllkgGJIt-MNX/view?usp=sharing)
+(6) StereoDPNet      **(Ours)**       
 
 If you use these models, please cite their papers.
 
